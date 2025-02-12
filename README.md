@@ -11,4 +11,4 @@ VEGIEHAT leverages crowd-sourced data from individuals across the country. With 
 VEGIEHAT is a digital platform designed to monitor food and vegetable prices in Bangladesh by everyday people. The app provides users with real-time price input capabilities, data visualizations, insights, and alerts for unusual price fluctuations. By joining the VEGIEHAT community, you become part of a movement that transforms markets for the better.
 
 # Get Involved!
-We invite you to signup on the VEGIEHAT app today and start contributing price information. Your participation will help create a more equitable food system for everyone. Together, we can make a real difference!
+We invite you to signup on the VEGIEHAT app (https://cfdra.fillout.com/vegiehat) today and start contributing price information. Your participation will help create a more equitable food system for everyone. Together, we can make a real difference!
