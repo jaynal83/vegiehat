@@ -26,6 +26,9 @@ params:
   copyright: VEGIEHAT
   customCSS:
     - css/vegiehat.css
+  style:
+    vars:
+      highlightColor: "#F28B0C"
 
   # Sidebar configuration
   sidebar:

@@ -1,6 +1,6 @@
 ---
-title: "_Index"
-description: ""
+title: "VEGIEHAT"
+description: "Empowering Communities for Fairer Markets"
 date: "2025-02-12T23:49:17Z"
 ---
 
