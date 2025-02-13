@@ -1,0 +1,73 @@
+baseurl: https://vegiehat.org
+languageCode: en-US
+#title: "VEGIEHAT: Empowering Communities for Fairer Markets"
+theme: mainroad
+
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+
+#permalinks:
+#  post: /:year/:month/:day/:slug/
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: App
+      url: /app/
+      weight: 2
+
+params:
+  description: Empowering Communities for Fairer Markets
+  favicon: favicon.ico
+  copyright: VEGIEHAT
+  customCSS:
+    - css/vegiehat.css
+
+  # Sidebar configuration
+  sidebar:
+    home: false # No sidebar on the homepage
+    list: "left" # sidebar on list pages (e.g., blog posts)
+    single: false # No sidebar on single pages (e.g., individual posts)
+
+  # Widgets in sidebar
+  widgets:
+    - search
+    - recent
+    - categories
+    - taglist
+
+  # Metadata settings for SEO/social sharing
+  opengraph: true
+  schema: true
+  twitter_cards: true
+
+  # MathJax configuration (optional)
+  mathjax: true  
+  mathjaxPath: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
+  mathjaxConfig: "TeX-AMS-MML_HTMLorMML"
+
+  # Highlight.js settings for code blocks (optional)
+  highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs  
+  highlightjsLang:
+    - r  
+    - yaml  
+  highlightjsTheme: github  
+  highlightjsVersion: 9.12.0  
+
+# Optional author information (for authorbox)
+#authorbox: true  
+#author:
+#  name: Your Name  
+#  bio: A short bio about yourself.
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+publishDir: docs
+
