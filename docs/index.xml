@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VEGIEHAT on </title>
+    <title>Home - VEGIEHAT on </title>
     <link>https://vegiehat.org/</link>
-    <description>Recent content in VEGIEHAT on </description>
+    <description>Recent content in Home - VEGIEHAT on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 12 Feb 2025 23:32:14 +0000</lastBuildDate>
     <atom:link href="https://vegiehat.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>App - VEGIEHAT</title>
       <link>https://vegiehat.org/app/</link>
-      <pubDate>Wed, 12 Feb 2025 23:32:14 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://vegiehat.org/app/</guid>
-      <description>&lt;div style=&#34;width:100%;height:500px;&#34; &#xD;&#xA;    data-fillout-id=&#34;1ewVm5Jduxus&#34; &#xD;&#xA;    data-fillout-embed-type=&#34;standard&#34; &#xD;&#xA;    data-fillout-inherit-parameters &#xD;&#xA;    data-fillout-dynamic-resize&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;script src=&#34;https://server.fillout.com/embed/v1/&#34;&gt; &lt;/script&gt;</description>
+      <description>&lt;p&gt;Please participate by entering daily essential food and vegetable prices that you know directly from the market.&lt;/p&gt;&#xA;&lt;div style=&#34;width:100%;height:500px;&#34; &#xD;&#xA;    data-fillout-id=&#34;1ewVm5Jduxus&#34; &#xD;&#xA;    data-fillout-embed-type=&#34;standard&#34; &#xD;&#xA;    data-fillout-inherit-parameters &#xD;&#xA;    data-fillout-dynamic-resize&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;script src=&#34;https://server.fillout.com/embed/v1/&#34;&gt; &lt;/script&gt;</description>
+    </item>
+    <item>
+      <title>Meet the Team</title>
+      <link>https://vegiehat.org/teams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vegiehat.org/teams/</guid>
+      <description>&lt;style&gt;&#xD;&#xA;/* Custom styles for two-column layout */&#xD;&#xA;.team-container {&#xD;&#xA;  display: flex;&#xD;&#xA;  align-items: flex-start;&#xD;&#xA;  gap: 20px;&#xD;&#xA;  margin-bottom: 30px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.team-photo {&#xD;&#xA;  max-width: 150px;&#xD;&#xA;  border-radius: 50%;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.team-details {&#xD;&#xA;  flex: 1;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;p&gt;Welcome to our team page! Get to know the amazing individuals who make everything possible in VEGIEHAT.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;div class=&#34;team-container&#34;&gt;&#xD;&#xA;  &lt;div&gt;&#xD;&#xA;    &lt;img src=&#34;https://vegiehat.org/images/JaynalAbedin.png&#34; alt=&#34;Jaynal Abedin&#34; class=&#34;team-photo&#34;&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;team-details&#34;&gt;&#xD;&#xA;    &lt;h3&gt;Jaynal Abedin&lt;/h3&gt; &#xD;&#xA;    &lt;p&gt;&#xD;&#xA;      Jaynal Abedin holds a Ph.D. in Data Science from the University of Galway, Ireland, and is passionate        about solving statistical data analysis and visualization challenges using R programming. With               extensive experience in &lt;strong&gt; R, Shiny, SQL, BigQuery, Jupyter Notebook, and Google Cloud Platform,       &lt;/strong&gt; he excels in IT prototyping and developing data-driven solutions for complex problems.             Committed and process-driven, Dr. Abedin believes in structured methodologies and small wins to drive        continuous progress rather than focusing solely on outcomes. He possesses strong leadership skills,          guiding teams toward innovation and efficiency in data science projects. Additionally, his expertise in       effective &lt;strong&gt; communication &lt;/strong&gt; enables seamless collaboration between various stakeholders,       ensuring clarity and alignment in project objectives. With deep knowledge of &lt;strong&gt; statistical            modeling, machine learning, and cloud-based analytics,&lt;/strong&gt; he transforms complex datasets into          actionable insights, driving impactful advancements in data science and biostatistics.&#xD;&#xA;    &lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

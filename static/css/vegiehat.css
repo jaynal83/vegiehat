@@ -389,7 +389,7 @@ select {
 }
 
 .logo {
-	padding: 25px;
+	padding: 5px;
 }
 
 .logo__link {
@@ -1322,4 +1322,9 @@ textarea {
 		font-size: 11px;
 		font-size: .6875rem;
 	}
+}
+.team-photo {
+    width: 150px;
+    height: auto; /* Maintains aspect ratio */
+    border-radius: 50%; /* Optional: Makes the image circular */
 }

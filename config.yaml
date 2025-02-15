@@ -1,6 +1,6 @@
 baseurl: https://vegiehat.org
 languageCode: en-US
-#title: "VEGIEHAT: Empowering Communities for Fairer Markets"
+title: ""
 theme: mainroad
 
 ignoreFiles:
@@ -19,9 +19,16 @@ menu:
     - name: App
       url: /app/
       weight: 2
+    - name: Teams
+      url: /teams/
+      weight: 3
 
 params:
-  description: Empowering Communities for Fairer Markets
+  logo:
+    image: images/vegiehat-logo.png
+    title: VEGIEHAT
+    subtitle: Empowering Communities for Fairer Markets
+  #description: Empowering Communities for Fairer Markets
   favicon: favicon.ico
   copyright: VEGIEHAT
   customCSS:
@@ -29,6 +36,7 @@ params:
   style:
     vars:
       highlightColor: "#F28B0C"
+  #appleTouchIcon: "apple-touch-icon.png"
 
   # Sidebar configuration
   sidebar:
