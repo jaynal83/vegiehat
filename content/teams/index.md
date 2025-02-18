@@ -49,6 +49,31 @@ Welcome to our team page! Get to know the amazing individuals who make everythin
 
 <div class="team-container">
   <div>
+    <img src="/images/Ashik.jpg" alt="Ashik" class="team-photo">
+  </div>
+  <div class="team-details">
+    <h3>Ashik E Elahi</h3> 
+    <p>Ashik E Elahi is a 3rd-year Statistics student at the University of Rajshahi, passionate about data science and web development. With a strong foundation in statistical analysis and programming, he is actively building expertise in data analysis, machine learning, and software development. His technical skills include <strong>Python, R, JavaScript, C, and C++</strong>, along with hands-on experience in <strong>web scraping, React Native, and Firebase integration.</strong>
+    </p>
+    <p>With a focus on structured methodologies, problem-solving, and continuous learning, he navigates complex challenges efficiently. As a process-driven individual, he values collaboration, transparency, and efficiency in data science projects. His ability to bridge the gap between technical development and user needs makes him an asset in creating impactful solutions.
+    </p>
+    <ul>
+      <li><strong>Skills:</strong> Python, R, JavaScript, ReactJS, Web Scraping</li>
+      <li><strong>Hobbies:</strong> Solo walks , Reading Books, Exploring New Technologies</li>
+      <li><strong>Social Links:</strong> 
+        <a href="https://ashikeelahi3.netlify.app/" target="_blank">Portfolio</a> |
+        <a href="https://www.linkedin.com/in/ashikeelahi3" target="_blank">LinkedIn</a> | 
+        <a href="https://github.com/ashikeelahi3" target="_blank">GitHub</a> 
+      </li>
+    </ul>
+  </div>
+</div>
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+<div class="team-container">
+  <div>
     <img src="/images/avatar.png" alt="" class="team-photo">
   </div>
   <div class="team-details">
