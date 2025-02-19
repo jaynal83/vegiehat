@@ -180,6 +180,26 @@ and progress in data science and bioinformatics.
 
 <div class="team-container">
   <div>
+    <img src="/images/KhalidMuntasir.jpeg" alt="Khalid Muntasir" class="team-photo">
+  </div>
+  <div class="team-details">
+    <h3>KHALID Muntasir</h3> 
+    <p>Khalid Mumtasir is pursuing his bachelor degree in statistics at the Department of Statistics, University of Rajshahi, Bangladesh. He has interests in Mathematics, Sciences, Computers and the creative fields of arts. He loves to explore new technologies while solving day to day problems. 
+    </p>
+    <ul>
+      <li><strong>Skills:</strong> R, JavaScript, Photoshop, Figma</li>
+      <li><strong>Social Links:</strong> 
+        <a href="https://www.linkedin.com/in/khalid-m-2a489412a/" target="_blank">LinkedIn </a> |
+        <a href="https://github.com/chromaticv1" target="_blank">GitHub</a> 
+      </li>
+    </ul>
+  </div>
+</div>
+
+------------------------------------------------------------------------
+
+<div class="team-container">
+  <div>
     <img src="/images/MahanazMoury.png" alt="Mahanaz Tabassum Moury" class="team-photo">
   </div>
   <div class="team-details">
@@ -192,7 +212,7 @@ and progress in data science and bioinformatics.
       <li><strong>Skills:</strong> R, Excel, C, C++, SPSS, Event Anchoring</li>
       <li><strong>Hobbies:</strong> Poem Recitation, Reading Books, Drawing</li>
       <li><strong>Social Links:</strong> 
-        <a href="https://github.com/mahanazmoury5" target="_blank">GitHub</a> 
+        <a href="https://github.com/mahanazmoury5" target="_blank">GitHub </a> 
       </li>
     </ul>
   </div>
