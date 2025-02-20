@@ -27,7 +27,6 @@ menu:
       weight: 4
 
 params:
-  googleAnalytics: "G-6L7XEK4Y44"
   logo:
     image: images/vegiehat-logo.png
     title: VEGIEHAT
@@ -83,6 +82,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+services:
+  googleAnalytics:
+    ID: "G-6L7XEK4Y44"
 
 publishDir: docs
 
