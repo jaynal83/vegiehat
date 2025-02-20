@@ -21,7 +21,38 @@ title: "Meet the Team"
 }
 </style>
 
-Welcome to our team page! Get to know the amazing individuals (in alphabetical order) who make everything possible in VEGIEHAT.
+Welcome to our team page! Get to know the amazing individuals <strong>(in alphabetical order)</strong> who make everything possible in VEGIEHAT.
+
+------------------------------------------------------------------------
+
+
+<div class="team-container">
+  <div>
+    <img src="/images/AHMED_RAFI.JPG" alt="Ahmed Ar Rafi" class="team-photo">
+  </div>
+  <div class="team-details">
+    <h3>Ahmed Ar RAFI</h3> 
+    <p>Ahmed Ar Rafi is a dedicated data science enthusiast currently pursuing a B.Sc. in
+Statistics at the University of Rajshahi. Passionate about <strong> data science, artificial
+intelligence (AI), and machine learning, </strong> he is actively building a strong foundation in
+these fields.
+    </p>
+    <p>With growing proficiency in <strong>Python, R, SQL, Excel, and Power BI,</strong> He seeks to apply his skills to solve real-world challenges effectively. His keen interest in AI and
+emerging technologies drives his commitment to continuous learning and professional
+growth. </p>
+<p>He approaches problem-solving with creativity, analytical thinking, collaboration, and
+effective communication, striving to refine his expertise and contribute meaningfully to
+the fields of data science and AI. While still early in his journey, his dedication and
+enthusiasm position him as a promising professional in the industry. </p>
+    <ul>
+      <li><strong>Skills:</strong> Python, R, SQL, Excel, and Power BI</li>
+      <li><strong>Social Links:</strong> 
+        <a href="https://www.linkedin.com/in/ahmed-ar-rafi-977911259/" target="_blank">LinkedIn</a> |
+        <a href="https://github.com/theahmedrafi" target="_blank">GitHub</a> 
+      </li>
+    </ul>
+  </div>
+</div>
 
 ------------------------------------------------------------------------
 
@@ -93,6 +124,22 @@ Beyond academics, he enjoys intellectual challenges, including playing chess and
 
 <div class="team-container">
   <div>
+    <img src="/images/HaiyanTaki.jpg" alt="Haiyan Taki" class="team-photo">
+  </div>
+  <div class="team-details">
+    <h3>Haiyan TAKI</h3> 
+    <p>Haiyan Taki is pursuing his bachelor degree in statistics at the Department of Statistics, University of Rajshahi, Bangladesh. He is  passionate about data science & machine learning , he is developing his skills in statistical analysis and programming</p>
+    <ul>
+      <li><strong>Skills:</strong>  R, python (basic ) , c++(basic), Excel, HTML</li>
+      <li><strong>Hobbies:</strong>  Photography , Traveling</li>
+    </ul>
+  </div>
+</div>
+
+------------------------------------------------------------------------
+
+<div class="team-container">
+  <div>
     <img src="/images/JahidHasanImran.jpg" alt="Jahid Hasan Imran" class="team-photo">
   </div>
   <div class="team-details">
@@ -100,7 +147,7 @@ Beyond academics, he enjoys intellectual challenges, including playing chess and
     <p>Jahid Hasan Imran is a Data Science and Bioinformatics enthusiast with a Bachelor's
 degree in Statistics from the Department of Statistics, University of Rajshahi, Bangladesh. He leverages <strong> Python and R </strong> for Data Analysis and Visualization, and has experience in <strong> Web Scraping, Web Design, Microarray Analysis, Docking, and Microbiome (16S rRNA) </strong> Research. He
 is also proficient in <strong> Jupyter Notebook, Google Colab, Visual Studio Code, Adobe
-Illustrator, and Figma </strong>. By transforming data into actionable insights, he drives innovation
+Illustrator, and Figma. </strong> By transforming data into actionable insights, he drives innovation
 and progress in data science and bioinformatics.
     </p>
     <ul>
@@ -161,25 +208,6 @@ and progress in data science and bioinformatics.
 
 <div class="team-container">
   <div>
-    <img src="/images/LuknathDebnath.jpg" alt="Luknath Debnath" class="team-photo">
-  </div>
-  <div class="team-details">
-    <h3>LUKNATH Debnath</h3> 
-    <p>Luknath Debnath is an M.Sc. student studying statistics at the Department of Statistics, University of Rajshahi, Bangladesh; where he also completed his Bachelor in Statistics. Passionate about data science, he is developing his skills in statistical analysis and programming. He is proficient in <strong> R, Python, and SPSS, </strong> and has experience with data visualization and design tools like <strong> Adobe Illustrator and Figma.</strong> He is eager to apply his growing skills to real-world data challenges.
-    </p>
-    <ul>
-      <li><strong>Skills:</strong> R, Python, SPSS</li>
-      <li><strong>Design:</strong> Adobe Illustrator (Basic), Figma (Basic)</li>
-      <li><strong>Office Productivity:</strong> Office Productivity: Microsoft Word and Google docs, Excel and Google sheets
-, PowerPoint and Google slides</li>
-    </ul>
-  </div>
-</div>
-
-------------------------------------------------------------------------
-
-<div class="team-container">
-  <div>
     <img src="/images/KhalidMuntasir.jpeg" alt="Khalid Muntasir" class="team-photo">
   </div>
   <div class="team-details">
@@ -192,6 +220,25 @@ and progress in data science and bioinformatics.
         <a href="https://www.linkedin.com/in/khalid-m-2a489412a/" target="_blank">LinkedIn </a> |
         <a href="https://github.com/chromaticv1" target="_blank">GitHub</a> 
       </li>
+    </ul>
+  </div>
+</div>
+
+------------------------------------------------------------------------
+
+<div class="team-container">
+  <div>
+    <img src="/images/LuknathDebnath.jpg" alt="Luknath Debnath" class="team-photo">
+  </div>
+  <div class="team-details">
+    <h3>LUKNATH Debnath</h3> 
+    <p>Luknath Debnath is an M.Sc. student studying statistics at the Department of Statistics, University of Rajshahi, Bangladesh; where he also completed his Bachelor in Statistics. Passionate about data science, he is developing his skills in statistical analysis and programming. He is proficient in <strong> R, Python, and SPSS, </strong> and has experience with data visualization and design tools like <strong> Adobe Illustrator and Figma.</strong> He is eager to apply his growing skills to real-world data challenges.
+    </p>
+    <ul>
+      <li><strong>Skills:</strong> R, Python, SPSS</li>
+      <li><strong>Design:</strong> Adobe Illustrator (Basic), Figma (Basic)</li>
+      <li><strong>Office Productivity:</strong> Office Productivity: Microsoft Word and Google docs, Excel and Google sheets
+, PowerPoint and Google slides</li>
     </ul>
   </div>
 </div>
@@ -242,6 +289,22 @@ and progress in data science and bioinformatics.
 
 <div class="team-container">
   <div>
+    <img src="/images/MoriumAkter.jpg" alt="Morium Akter" class="team-photo">
+  </div>
+  <div class="team-details">
+    <h3>MORIUM Akter</h3> 
+    <p>Morium Akter is a third-year student in the Department of Statistics at the University of Rajshahi in Bangladesh, with a passion for data science. She has a strong background in statistical analysis and programming, with expertise in <strong> R, Python,</strong> C, C++, and <strong> SPSS. </strong> She is passionate about research and hopes that her work can benefit society. She is hardworking and committed to continued learning. She has also volunteered at an international conference, obtaining excellent experience in both academic and professional environments. She also has good communication skills.
+</p>
+    <ul>
+      <li><strong> Skills:</strong> R, Python, C++, C, SPSS, Excel </li>
+      <li><strong> Hobbies:</strong> Reading Books, Cooking </li>
+    </ul>
+  </div>
+</div>
+
+------------------------------------------------------------------------
+<div class="team-container">
+  <div>
     <img src="/images/MoumitaBasak.png" alt="Moumita Basak" class="team-photo">
   </div>
   <div class="team-details">
@@ -282,6 +345,40 @@ He is interested in developing bioinformatics research knowledge, attempting to 
 
 ------------------------------------------------------------------------
 
+
+<div class="team-container">
+  <div>
+    <img src="/images/Sanjida.jpg" alt="Sanjida Jahan" class="team-photo">
+  </div>
+  <div class="team-details">
+    <h3>SANJIDA Jahan</h3> 
+    <p>Sanjida Jahan has experience in Excel and health research. She has a strong background in data analysis and visualization. She has successfully completed two research projects and is currently working on another, focusing on data-driven insights in healthcare. Her technical skills include advanced proficiency in <strong> Microsoft Excel, </strong> as well as experience working with <strong> SQL databases and Power BI </strong> for data management and reporting. Additionally, she is skilled in <strong> R and Python </strong> programming, using them for statistical analysis, data processing, and predictive modeling. Passionate about continuous learning, she is actively developing her expertise in data analytics, refining her ability to extract meaningful insights and make data-driven decisions.</p>
+    <ul>
+      <li><strong>Skills:</strong> R, Python, Excel</li>
+      <li><strong>Social Links:</strong> 
+        <a href="https://www.linkedin.com/in/kanizsanjida" target="_blank">LinkedIn</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+------------------------------------------------------------------------
+
+<div class="team-container">
+  <div>
+    <img src="/images/ShadidulHaqueMarjan.jpg" alt="Shadidul Haque Marjan" class="team-photo">
+  </div>
+  <div class="team-details">
+    <h3>SHADIDUL Haque Marjan</h3> 
+    <p>Shadidul Haque Marjan is a passionate data science and machine learning enthusiast, currently studying in third year in the Department of Statistics at the University of Rajshahi. With a keen interest in research and problem-solving, he enjoys solving practical problems, gaining insights and improving decision-making. His background in mathematics and statistics helps him to improve performance and analyze data effectively. He is always eager to apply innovative solutions to real-world challenges in data science.</p>
+    <ul>
+      <li><strong>Skills:</strong> C/C++, R, Excel, SPSS</li>
+      <li><strong>Hobbies:</strong> Travelling, Photography</li>
+    </ul>
+  </div>
+</div>
+
+------------------------------------------------------------------------
 <div class="team-container">
   <div>
     <img src="/images/Tonmoyshil.jpg" alt="Tonmoy Shil" class="team-photo">

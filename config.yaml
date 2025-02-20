@@ -22,6 +22,9 @@ menu:
     - name: Teams
       url: /teams/
       weight: 3
+    - name: Reports
+      url: /reports/
+      weight: 4
 
 params:
   logo:
