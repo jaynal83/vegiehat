@@ -184,7 +184,7 @@ and progress in data science and bioinformatics.
   </div>
   <div class="team-details">
     <h3>KHALID Muntasir</h3> 
-    <p>Khalid Mumtasir is pursuing his bachelor degree in statistics at the Department of Statistics, University of Rajshahi, Bangladesh. He has interests in Mathematics, Sciences, Computers and the creative fields of arts. He loves to explore new technologies while solving day to day problems. 
+    <p>Khalid Muntasir is pursuing his bachelor degree in statistics at the Department of Statistics, University of Rajshahi, Bangladesh. He has interests in Mathematics, Sciences, Computers and creative fields of arts. He loves to explore new technologies while solving day to day problems. 
     </p>
     <ul>
       <li><strong>Skills:</strong> R, JavaScript, Photoshop, Figma</li>
