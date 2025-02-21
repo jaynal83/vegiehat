@@ -1,2 +1,2 @@
 # VEGIEHAT
-VEGIEHAT: Empowering Communities for Fairer Markets
+VEGIEHAT: Empowering Communities for Fairer Markets.
