@@ -13,7 +13,9 @@ title: "Meet the Team"
 
 .team-photo {
   max-width: 150px;
+  max-height: 150px;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 .team-details {
