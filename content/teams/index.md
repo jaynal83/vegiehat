@@ -210,6 +210,31 @@ and progress in data science and bioinformatics.
 
 <div class="team-container">
   <div>
+    <img src="/images/JoyKumar.jpg" alt="Joy Kumar" class="team-photo">
+  </div>
+  <div class="team-details">
+    <h3>JOY Kumar</h3> 
+    <p>
+      Joy Kumar is currently pursuing a Bachelor's degree in Statistics at Rajshahi University. He is passionate about <strong>Bioinformatics, Data Science, Data Analysis, and Machine Learning</strong>. He is actively involved in <strong>bioinformatics research, including microarray analysis</strong>. His academic background has provided a strong foundation in <strong>statistical and computational techniques</strong>, enabling him to explore various analytical methods and problem-solving approaches. He is continuously learning and skill development, aiming to apply data-driven insights to solve real-world problems and drive innovation in biomedical research.
+    </p>
+    <p>
+He is proficient in tools such as <strong>SPSS, Python</strong> (basic), <strong>R, Excel and C++</strong>. He aspires to build a career in bioinformatics and data analysis, focusing on applications in healthcare, genetics, and personalized medicine.
+
+    </p>
+    <ul>
+      <li><strong>Skills:</strong> Python, R, SPSS, Excel, Visual Studio Code</li>
+      <li><strong>Hobbies:</strong> Tree planting, Photography, Traveling, Exploration</li>
+      <li><strong>Social Links:</strong>  
+        <a href="https://github.com/Joykumar66" target="_blank">GitHub</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+------------------------------------------------------------------------
+
+<div class="team-container">
+  <div>
     <img src="/images/KhalidMuntasir.jpeg" alt="Khalid Muntasir" class="team-photo">
   </div>
   <div class="team-details">
