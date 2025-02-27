@@ -265,6 +265,10 @@ He is proficient in tools such as <strong>SPSS, Python</strong> (basic), <strong
       <li><strong>Design:</strong> Adobe Illustrator (Basic), Figma (Basic)</li>
       <li><strong>Office Productivity:</strong> Office Productivity: Microsoft Word and Google docs, Excel and Google sheets
 , PowerPoint and Google slides</li>
+      <li><strong>Social Links:</strong> 
+        <a href="https://www.linkedin.com/in/luknath/" target="_blank">LinkedIn</a> | 
+        <a href="https://github.com/luknath57" target="_blank">GitHub</a> 
+      </li>
     </ul>
   </div>
 </div>
