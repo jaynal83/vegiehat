@@ -219,7 +219,6 @@ and progress in data science and bioinformatics.
     </p>
     <p>
 He is proficient in tools such as <strong>SPSS, Python</strong> (basic), <strong>R, Excel and C++</strong>. He aspires to build a career in bioinformatics and data analysis, focusing on applications in healthcare, genetics, and personalized medicine.
-
     </p>
     <ul>
       <li><strong>Skills:</strong> Python, R, SPSS, Excel, Visual Studio Code</li>
