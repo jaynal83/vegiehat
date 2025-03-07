@@ -25,9 +25,9 @@ menu:
     - name: Reports
       url: /reports/
       weight: 4
-    - name: Courses
-      url: /courses/
-      weight: 5
+    #- name: Courses
+    #  url: /courses/
+    #  weight: 5
 
 params:
   logo:
