@@ -328,6 +328,9 @@ He is proficient in tools such as <strong>SPSS, Python</strong> (basic), <strong
     <ul>
       <li><strong> Skills:</strong> R, Python, C++, C, SPSS, Excel </li>
       <li><strong> Hobbies:</strong> Reading Books, Cooking </li>
+      <li><strong>Social Links:</strong> 
+        <a href="https://github.com/morium180" target="_blank">GitHub</a> 
+      </li>
     </ul>
   </div>
 </div>
