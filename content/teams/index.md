@@ -412,6 +412,26 @@ He is interested in developing bioinformatics research knowledge, attempting to 
 </div>
 
 ------------------------------------------------------------------------
+
+<div class="team-container">
+  <div>
+    <img src="/images/Tahmina.jpeg" alt="Tahmina Akter" class="team-photo">
+  </div>
+  <div class="team-details">
+    <h3>Tahmina Akter CHAITI</h3> 
+    <p>Mst. Tahmina Akter is a Statistics student at the University of Rajshahi with a focus on data analysis and bioinformatics. She has experience in exploratory data analysis and data visualization using <strong> R </strong> and <strong> Python.</strong> She is familiar with tools such as <strong> Anaconda and RStudio </strong> for managing large data set and performing computational tasks. In bioinformatics, her work includes micro-array analysis and molecular docking, where she applies statistical and machine learning techniques to analyze data. She is interested in data-driven research and aims to contribute to the field of bioinformatics and computational biology.</p>
+    <ul>
+      <li><strong>Skills:</strong> Python, R, Jupyter Notebook</li>
+      <li><strong>Hobbies:</strong> Watching Movies, Cooking</li>
+      <li><strong>Social Links:</strong> 
+      <a href=" https://www.linkedin.com/in/mst-tahmina-akter-968309216" target="_blank">LinkedIn</a> | 
+        <a href="https://github.com/msttahmina-akter" target="_blank">GitHub</a> 
+      </li>
+    </ul>
+  </div>
+</div>
+
+------------------------------------------------------------------------
 <div class="team-container">
   <div>
     <img src="/images/Tonmoyshil.jpg" alt="Tonmoy Shil" class="team-photo">
